@@ -20,3 +20,5 @@ The app gets weather data from an online service and shows it on the screen when
 - JavaScript  
 
 ##  Screenshot
+
+![Weather App](https://github.com/gayathrilakkoju/Weather-Project/blob/main/weatherapp.jpg?raw=true)
